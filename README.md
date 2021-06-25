@@ -17,24 +17,29 @@ This project will consits of two technical analysis deliverables and a writen re
 ### Analysis of Outcomes Based on Launch Date
 Using the kickstarter data set first we created a new column "Year" and used the Year function to extract the year from the "Date Created Conversion" column. This was required as this would made it easy for us to analyize theater outcomes by specific year. After extracting the data we created to pivot table to portray the campaign outcomes in a tabular fashion. 
 
-Snippet of the Pivot Table Created.
-/Users/kunaljuneja/Desktop/Pivot Table.png
+_**Snippet of the Pivot Table Created.**_
+
+![Pivot Table](https://user-images.githubusercontent.com/25447945/123389864-effee180-d55f-11eb-99b4-0554c708e9e9.png)
 
 After showing the result in tabular way and to visualize the relationship between outcomes and launch month we created a line chart.
 
-Snippet of Line Chart created.
-/Users/kunaljuneja/Desktop/LineChart based on launch date.png
+_**Snippet of Line Chart created.**_
+
+![LineChart based on launch date](https://user-images.githubusercontent.com/25447945/123390346-6ef41a00-d560-11eb-885d-6e9172b85029.png)
+
 
 ### Analysis of Outcomes Based on Goals
 Using the Kickstarter data sheet, first we created a new sheet labeled "Outcomes Based on Loals" where we created bunch if rows and columns. Then we used some functions to extract data from the  kickstarter dataset and recorded in our new sheet. 
 
-Snippet of Table Created.
-/Users/kunaljuneja/Desktop/Table on Goals.png
+_**Snippet of Table Created.**_
+
+![Table on Goals](https://user-images.githubusercontent.com/25447945/123390447-8a5f2500-d560-11eb-9360-549240da2a3b.png)
 
 Using the table created, we created a line chart to visualize the relationship between goal-amount ranges and outcomes.
 
-Snippet of Line Chart
-/Users/kunaljuneja/Desktop/LineChart based on goals.png
+_**Snippet of Line Chart**_
+
+![LineChart based on goals](https://user-images.githubusercontent.com/25447945/123390554-a662c680-d560-11eb-8c42-46de4279e441.png)
 
 ### Challenges and Difficulties Encountered
 Some of the challenges faced were to learn new functions like countifs to extract the data. To overcome the challenge I looked up some of the examples and watched some videos to understand it better and apply the knowledge I learned to finish my project.
